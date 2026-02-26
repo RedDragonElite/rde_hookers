@@ -11,6 +11,8 @@
 **The most immersive, production-grade hooker system ever built for FiveM.**  
 Statebag-synced. Fully animated. Auto-menu. Nostr-logged. Zero compromises.
 
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/c9ee7edb-6bf8-4341-ad43-81d298e749dd" />
+
 *Built by [Red Dragon Elite](https://rd-elite.com) | Free Forever | OX Ecosystem Exclusive*
 
 [📖 Installation](#-installation) • [🎮 Features](#-features) • [⚙️ Configuration](#-configuration) • [📡 Nostr Logging](#-nostr-logging) • [💬 Discord](https://discord.gg/rde)

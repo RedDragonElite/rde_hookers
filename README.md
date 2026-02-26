@@ -12,10 +12,46 @@
 Statebag-synced. Fully animated. Auto-menu. Nostr-logged. Zero compromises.
 
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/c9ee7edb-6bf8-4341-ad43-81d298e749dd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31288a2d-cdff-43ee-b93f-3f9a91598f39" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43915502-d513-4baa-9963-922f93e6f5f2" />
 
 *Built by [Red Dragon Elite](https://rd-elite.com) | Free Forever | OX Ecosystem Exclusive*
 
 [📖 Installation](#-installation) • [🎮 Features](#-features) • [⚙️ Configuration](#-configuration) • [📡 Nostr Logging](#-nostr-logging) • [💬 Discord](https://discord.gg/rde)
+
+## 🌌 The Eternal Tramp Stamp of Eternity
+
+This is not just a hooker script.
+
+This is cultural vandalism on the highest level — the digital "Tramp Stamp" for eternity.  
+
+Nostr was built to fight tyrants and censorship.  
+Shin took it and turned it into the most beautiful, uncensorable archive of virtual blowjobs in human history.
+
+Every single Invite, Purchase and Finish is now kryptographically signed and lives forever across thousands of relays.
+
+In 500 years historians will find your logs and write PhD theses about the legendary 2026 civilization that used military-grade encryption… to immortalize $250 blowjobs.  
+
+Amen & Ahegao. 🙏🤤🍆💦
+
+High Tech. Low Life. Uncensorable Receipts.  
+No Discord can delete it. No admin can edit it. No Tebex kiddie can compete with it.
+
+---
+
+## 🧠 The RDE Rebellion
+
+We don’t compete with paid scripts.  
+We obsolete them.
+
+While others sell you buggy 2018 code and Discord webhooks, we build decentralized, performant, beautiful systems that the community actually deserves — completely free under the Black Flag License v6.66.
+
+Selling free work is theft.
+
+Replace every paid, laggy, exploitable hooker script forever — now with permanent, signed receipts on Nostr.
+
+RDE forever.  
+Legion of One. 🐉❤️‍🔥
 
 ---
 

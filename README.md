@@ -14,6 +14,7 @@ Statebag-synced. Fully animated. Auto-menu. Nostr-logged. Zero compromises.
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/c9ee7edb-6bf8-4341-ad43-81d298e749dd" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31288a2d-cdff-43ee-b93f-3f9a91598f39" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43915502-d513-4baa-9963-922f93e6f5f2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/061a6f9f-bfd9-4f3e-ac02-791cfdf6aefb" />
 
 *Built by [Red Dragon Elite](https://rd-elite.com) | Free Forever | OX Ecosystem Exclusive*
 

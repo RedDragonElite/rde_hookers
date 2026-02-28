@@ -11,6 +11,8 @@
 **The most immersive, production-grade hooker system ever built for FiveM.**  
 Statebag-synced. Fully animated. Auto-menu. Nostr-logged. Zero compromises.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8042b726-17c5-4311-96f1-b6a0042fa38c" />
+
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/c9ee7edb-6bf8-4341-ad43-81d298e749dd" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31288a2d-cdff-43ee-b93f-3f9a91598f39" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43915502-d513-4baa-9963-922f93e6f5f2" />
